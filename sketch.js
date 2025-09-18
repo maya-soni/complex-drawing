@@ -92,6 +92,7 @@ function createdoorknobs () {
   ellipse (193,360,10,10)
   fill ("black")
   ellipse (333,360,10,10)
-  fill ("black")
+  fill ("black")  ellipse (52,360,10,10) 
+}
   ellipse()
 }
